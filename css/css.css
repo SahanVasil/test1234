@@ -76,6 +76,8 @@ h6 {
 /*-----*/
 body {
   margin: 0px;
+  color: aqua;
+  font-size: 60px;
 }
 .intro {
   width: auto;
